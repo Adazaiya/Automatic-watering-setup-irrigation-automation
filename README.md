@@ -3,7 +3,7 @@ control our Arduino grove board sensing the moisture level and can pump water in
 automatically when the soil is dry and is gets turned off when it’s enough wet. 
 
 
-<img width="400" alt="Screen Shot 2023-12-29 at 11 58 41 PM" src="https://github.com/Adazaiya/water-system/assets/120755280/18f69c6a-6a55-4a53-bb1a-863f14fd1bf3">
+<img width="1000" alt="Screen Shot 2023-12-29 at 11 58 41 PM" src="https://github.com/Adazaiya/water-system/assets/120755280/18f69c6a-6a55-4a53-bb1a-863f14fd1bf3">
 
 
 ## PROCESS:
